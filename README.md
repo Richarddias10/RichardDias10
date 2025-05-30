@@ -1,9 +1,13 @@
-## Hi there 👋
+## Olá, meu nome é Richard Dias, e sou profissional de inteligência da área de segurança Empresarial.
 
-<!--
-**Richarddias10/RichardDias10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-Here are some ideas to get you started:
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
+![World](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
+
+
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
